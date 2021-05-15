@@ -5,11 +5,6 @@
 Estes desafios foram propostos pelas empresas Digital Innovation One e everis, para todos os participantes do curso como objetivo de testar o conhecimento. A partir disso, armazeno neste repositório as minhas respostas a estes testes e no REAME.md a teoria exemplificada de cada desafio. 
 
 
-## Para os interessados em praticar mais exercícios de lógica como estes:
-
-Este site possui exercícios em diversas linguagens de programação, para que pratiquemos o raciocínio lógico e a teoria de cada linguagem.
-
-
 ## Introdução à Programação em Kotlin:
 
 O objetivo destes desafios de codificação é praticar, através do desenvolvimento de algoritmos, os conceitos de pensamento computacional apresentados nas aulas do Bootcamp everis Kotlin Developer.

@@ -119,7 +119,7 @@ O objetivo destes desafios de codificação é praticar, através do desenvolvim
 | Numeração do Desafio  |          Tema do Desafio          |  Tipo do Desafio   | Nível do Desafio |                     Resposta do Desafio                      |
 | :-------------------: | :-------------------------------: | :----------------: | :--------------: | :----------------------------------------------------------: |
 | [Desafio 1](#anchor4) | Solucionando Problemas com Kotlin | Princípios Básicos |      Básico      | [Resposta 1](src/main/kotlin/DesafioTaxaDeImpostoDeRenda.kt) |
-| [Desafio 2](#anchor5) | Solucionando Problemas com Kotlin | Princípios Básicos |  Intermediário   |      [Resposta 2](src/main/kotlin/DesafioAreaDoCirculo)      |
+| [Desafio 2](#anchor5) | Solucionando Problemas com Kotlin | Princípios Básicos |  Intermediário   |      [Resposta 2](src/main/kotlin/DesafioAreaDoCirculo.kt)      |
 | [Desafio 3](#anchor6) | Solucionando Problemas com Kotlin |     Matemática     |  Intermediário   |     [Resposta 3](src/main/kotlin/DesafioPrimoRapido.kt)      |
 | [Desafio 4](#anchor7) | Solucionando Problemas com Kotlin | Princípios Básicos |      Básico      | [Resposta 4](src/main/kotlin/DesafioACorridaDeTartarugas.kt) |
 | [Desafio 5](#anchor8) | Solucionando Problemas com Kotlin |     Matemática     |      Básico      |      [Resposta 5](src/main/kotlin/DesafioFigurinhas.kt)      |
